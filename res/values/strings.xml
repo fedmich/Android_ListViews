@@ -4,5 +4,11 @@
     <string name="app_name">Android_ListViews</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    
+    <string-array name="colors">
+        <item >Red</item>
+        <item >Blue</item>
+        <item >Yellow</item>
+    </string-array>
 
 </resources>
